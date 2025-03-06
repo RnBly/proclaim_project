@@ -62,7 +62,6 @@ flutter:
     - assets/script.xlsx
     - assets/bible.json
     - assets/bible_esv.json
-    - assets/script - Copy.xlsx
 
   # To add assets to your application, add an assets section, like this:
   # assets:
