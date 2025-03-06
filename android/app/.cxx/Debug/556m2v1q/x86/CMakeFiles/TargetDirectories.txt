@@ -1,2 +1,0 @@
-D:/Proclaim/proclaim/android/app/.cxx/Debug/556m2v1q/x86/CMakeFiles/edit_cache.dir
-D:/Proclaim/proclaim/android/app/.cxx/Debug/556m2v1q/x86/CMakeFiles/rebuild_cache.dir
